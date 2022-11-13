@@ -1,0 +1,34 @@
+.header{
+    display:flex;
+    margin-top: 25px;
+
+}
+.navbar{
+    display: flex;
+    /* background-color: wheat; */
+    border-radius: 10px;
+    margin:auto;
+    border-radius: 10px;
+    margin: 14px 151px;
+}
+.header li{
+    list-style: none;
+    margin: 20px;
+    
+}
+.header li span{
+    color:blue;
+}
+#login{
+    border-radius: 10px;
+    color: #ff4040;
+    border: solid #ff4040;
+    margin: 20px;
+    padding: 20px;
+    border-width: 1px;
+    background:white;
+}
+.logo{
+    margin: 30px;
+
+}
